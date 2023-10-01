@@ -1,5 +1,9 @@
 name: Jekyll site CI
 
+baseurl: "/BS" # Replace with your repository name
+
+
+
 on:
   push:
     branches: [ "master" ]
